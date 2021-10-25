@@ -28,7 +28,7 @@ Follow this link to get started with Visual Studio Code (VS Code).
 
 Navigate to the following highlighted icon in the main VS Code blade: in the extension search bar, type <code>PowerShell</code> and select the following extension, then click through to download.
 
-![powershell-extension-installation](./images/01-powershell-extension-installation.png)
+<img src="./assets/01-powershell-extension-installation.png" alt="powershell-extension-installation" />
 <br/><br/>
 
 ## Reload VS Code To Initialize The Extension
@@ -51,4 +51,4 @@ Next, type format in the search bar at the top of the settings UI and check the 
 
 (Note: you may have to reload your developer window again after updating VS Code's settings from the UI.)
 
-![format-settings](./images/02-format-settings.png)
+<image src="./assets/02-format-settings.png" alt="format-settings"/>
